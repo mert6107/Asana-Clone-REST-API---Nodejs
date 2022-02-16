@@ -1,18 +1,1 @@
-{"level":"info","message":{"_id":"61ed902e0dd994c73d1ef2dd","createdAt":"2022-01-23T17:28:14.714Z","name":"logger test","updatedAt":"2022-01-23T17:28:14.714Z"},"service":"user-service"}
-{"level":"info","message":{"_id":"61ed991b17c85ed25217690f","createdAt":"2022-01-23T18:06:19.180Z","name":"logger test","updatedAt":"2022-01-23T18:06:19.180Z"},"service":"project-service"}
-{"level":"info","message":{"_id":"61efdb41c4ec135896a6ba77","createdAt":"2022-01-25T11:13:05.412Z","name":"Test Project 1","updatedAt":"2022-01-25T11:13:05.412Z"},"service":"project-service"}
-{"level":"info","message":{"_id":"61efdb4ac4ec135896a6ba79","createdAt":"2022-01-25T11:13:15.000Z","name":"Test Project 2","updatedAt":"2022-01-25T11:13:15.000Z"},"service":"project-service"}
-{"level":"info","message":{"_id":"61efdb4ec4ec135896a6ba7b","createdAt":"2022-01-25T11:13:18.577Z","name":"Test Project 3","updatedAt":"2022-01-25T11:13:18.577Z"},"service":"project-service"}
-{"level":"info","message":{"_id":"61efdb54c4ec135896a6ba7d","createdAt":"2022-01-25T11:13:24.758Z","name":"Test Project 4","updatedAt":"2022-01-25T11:13:24.758Z"},"service":"project-service"}
-{"level":"info","message":{"_id":"61efded35647f1fcfc8526c4","createdAt":"2022-01-25T11:28:19.534Z","name":"Test Project 5","updatedAt":"2022-01-25T11:28:19.534Z"},"service":"project-service"}
-{"level":"info","message":{"_id":"61efe1095f935d4a44372350","createdAt":"2022-01-25T11:37:45.148Z","name":"Test Project 6","updatedAt":"2022-01-25T11:37:45.148Z","user_id":"61edb2e00ebca273e7058a97"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f3fe61a926432c7d20acb9","createdAt":"2022-01-28T14:32:01.017Z","name":"TEST SECTION","updatedAt":"2022-01-28T14:32:01.017Z","user_id":"61f1384c1592e77401fb3ed4"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f406952717a62f2f689e9f","createdAt":"2022-01-28T15:07:01.219Z","name":"TEST PROJECT ","updatedAt":"2022-01-28T15:07:01.219Z","user_id":"61f1384c1592e77401fb3ed4"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f406e12717a62f2f689ea3","createdAt":"2022-01-28T15:08:17.343Z","name":"TEST PROJECT 2","updatedAt":"2022-01-28T15:08:17.343Z","user_id":"61f1384c1592e77401fb3ed4"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f5b2213c6cb11bd29c67ac","createdAt":"2022-01-29T21:31:13.984Z","name":"TEST PROJECT 1","updatedAt":"2022-01-29T21:31:13.984Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f5b2253c6cb11bd29c67ae","createdAt":"2022-01-29T21:31:17.111Z","name":"TEST PROJECT 2","updatedAt":"2022-01-29T21:31:17.111Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f5b2273c6cb11bd29c67b0","createdAt":"2022-01-29T21:31:19.818Z","name":"TEST PROJECT 3","updatedAt":"2022-01-29T21:31:19.818Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f7fd35fa63ad67877f82cb","createdAt":"2022-01-31T15:16:05.569Z","name":"TEST PROJECT 55","updatedAt":"2022-01-31T15:16:05.569Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f7ff062faeed4bab823e41","createdAt":"2022-01-31T15:23:50.974Z","name":"TEST PROJECT 555","updatedAt":"2022-01-31T15:23:50.974Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f8465575b6fbb04ae6e5cf","createdAt":"2022-01-31T20:28:05.157Z","name":"Proejct 1 SECTION 333","updatedAt":"2022-01-31T20:28:05.157Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
-{"level":"info","message":{"_id":"61f8465e75b6fbb04ae6e5d1","createdAt":"2022-01-31T20:28:14.823Z","name":"Proejct 1 SECTION 333","updatedAt":"2022-01-31T20:28:14.823Z","user_id":"61f5b1a13c6cb11bd29c67a9"},"service":"project-service"}
+
